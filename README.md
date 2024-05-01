@@ -85,4 +85,25 @@ input	output  input	output
 4             10
 8	    727.09  1     286.52
 
+07.Problem: Food delivery
+A restaurant opens its doors and offers several menus at preferential prices:
+• Chicken menu – BGN 10.35.
+• Fish menu – BGN 12.40.
+• Vegetarian menu – BGN 8.15.
+Write a program that calculates how much it will cost a group of people to order takeout.
+The group will also order a dessert, the price of which is equal to 20% of the total bill (excluding delivery).
+The delivery price is BGN 2.50 and is charged at the end.
+input
+3 lines are read from the console:
+• Number of chicken menus - an integer in the range [0 … 99]
+• Number of fish menus - an integer in the range [0 … 99]
+• Number of vegetarian menus - an integer in the range [0 … 99]
+output
+Print one line to the console: "{order price}"
+input	output  input	output
+2            9      
+4            2
+3	    116.2  3      173.38
+
+
 
