@@ -45,4 +45,24 @@ input	output  input	output
 20            15
 2	    5       4
 
+05.Problem: Supplies for school
+The school year has already started and the teacher of class 10B - Annie has to buy a certain number of packets of chemicals, packets of markers, as well as blackboard cleaner. She is a regular customer of a bookstore, so there is a discount for her, which is some percentage of the total amount. Write a program that calculates how much money Annie will need to collect to pay the bill, given the following price list:
+• Package of chemicals - BGN 5.80.
+• Pack of markers - BGN 7.20.
+• Detergent - BGN 1.20 (per liter)
+input
+4 numbers are read from the console:
+• Number of chemical packages - an integer in the interval [0...100]
+• Number of tag packets - an integer in the interval [0...100]
+• Liters of chalkboard cleaner - an integer in the range [0…50]
+• Percent reduction - an integer in the interval [0...100]
+output
+To print on the console how much money Annie will need to pay her bill.
+input	output  input	output
+2             4     58.68
+3             5
+4             5
+25	  28.5    10
+
+
 
